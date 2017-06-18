@@ -1,0 +1,31 @@
+{
+    "extends": [
+        "tslint:latest"
+    ],
+    "rules": {
+        "quotemark": [
+            true,
+            "single",
+            "avoid-escape"
+        ],
+        "interface-name": [
+            false
+        ],
+        "no-angle-bracket-type-assertion": false,
+        "whitespace": [
+            false
+        ],
+        "member-ordering": [
+            false
+        ],
+        "object-literal-sort-keys": false,
+        "object-literal-key-quotes": [
+            false
+        ],
+        "arrow-parens": false,
+        "no-console": [
+            false
+        ],
+        "curly": false
+    }
+}

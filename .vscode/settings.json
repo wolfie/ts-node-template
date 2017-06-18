@@ -1,0 +1,18 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 2,
+    "editor.tabSize": 2,
+    "prettier.useTabs": false,
+    "prettier.printWidth": 120,
+    "prettier.trailingComma": "all",
+    "prettier.typescriptEnable": [
+        "typescript"
+    ],
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "tslint.autoFixOnSave": true,
+    "tslint.enable": true,
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
